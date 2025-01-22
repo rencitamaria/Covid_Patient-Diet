@@ -16,4 +16,4 @@ Findings:
 	• Personalized diets were predicted based on user inputs like BMI, glucose level, and blood pressure.
 Conclusion:
 The study provides a framework for using machine learning to recommend diets that strengthen immunity. This approach can help individuals make informed dietary choices to recover from illnesses like COVID-19.
-![Uploading image.png…]()
+
